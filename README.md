@@ -1,0 +1,2 @@
+# sistemasoperativos
+repositorios clase viernes 
